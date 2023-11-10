@@ -6,5 +6,7 @@ This repository aims to alleviate this problem by providing students with means 
 # Quick start
 The application is currently only available on Android, but supports for Apple will arrive soon by switching to Flutter.
 The main page of the application contains a bar chart displaying the current level of congestion and a line chart to view the congestion level in the last few seconds.
+The Arduino code ready for deployment is included in the [Arduino folder](https://github.com/nsry123/Stair_Congestion_Monitor_Application/tree/master/Arduino) of this repo.
 
 <img src="https://github.com/nsry123/Stair_Congestion_Monitor_Application/blob/master/images/main_page.jpg" alt="drawing" width="400"/>
+https://github.com/nsry123/Stair_Congestion_Monitor_Application/tree/master/Arduino
