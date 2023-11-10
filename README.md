@@ -1,6 +1,6 @@
 # Stair Congestion Monitor Application
 Due to the dramatic rise in the number of students in SCIE in recent years, the level of congestion in staircases has also witnessed a sharp increase, resulting in safety concerns.
-This project aims to alleviate this problem by providing students with means to visualize current level of congestion at staircases, therefore choosing routes more wisely.
+This project aims to alleviate this problem by providing students with means to visualize current level of congestion at staircases, therefore allowing students to choosing routes more wisely.
 
 
 # Quick start
